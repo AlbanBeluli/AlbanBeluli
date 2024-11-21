@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlbanBeluli
-- 👀 I’m interested in #
-- 🌱 I’m currently learning #
+- 👀 I’m interested in Penetration Testing, Red Teaming & Python
 - 📫 How to reach me: https://x.com/AlbanBeluli
 
 <!---
