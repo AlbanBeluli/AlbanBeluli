@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbanBeluli
-- 👀 I’m interested in Penetration Testing, Red Teaming & Python
+- 👀 I’m interested in Web Applications, JavaScript, Node JS & Python
 - 📫 How to reach me: https://x.com/AlbanBeluli
 
 <!---
